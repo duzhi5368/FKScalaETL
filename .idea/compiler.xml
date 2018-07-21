@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="datascratch" />
+        <module name="db2hive" />
+        <module name="dwetl" />
+        <module name="poetl" />
+        <module name="test" />
+        <module name="wms" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="datascratch" target="1.5" />
+      <module name="db2hive" target="1.5" />
+      <module name="dwetl" target="1.5" />
+      <module name="poetl" target="1.5" />
+      <module name="test" target="1.5" />
+      <module name="wms" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

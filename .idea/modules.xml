@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/datascratch/datascratch.iml" filepath="$PROJECT_DIR$/datascratch/datascratch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db2hive/db2hive.iml" filepath="$PROJECT_DIR$/db2hive/db2hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dwetl/dwetl.iml" filepath="$PROJECT_DIR$/dwetl/dwetl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poetl/poetl.iml" filepath="$PROJECT_DIR$/poetl/poetl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wms/wms.iml" filepath="$PROJECT_DIR$/wms/wms.iml" />
+    </modules>
+  </component>
+</project>
